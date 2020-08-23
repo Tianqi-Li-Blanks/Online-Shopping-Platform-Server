@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b90edc98-e0a2-4ef6-b986-ef8f74bedb31" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cs4550-summer-2020-project-group17-Server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cs4550-summer-2020-project-group17-Server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/project/models/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/project/models/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/project/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/project/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/project/models/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/project/models/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/project/models/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/project/models/User.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dQ9tWn1QkWYamM2mJtJlI05ZaL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\12972\Desktop\cs4550-summer-2020-project-group17-Server-master\src\main\webapp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+      <recent name="C:\Users\Genghis\Desktop\cs4550-summer-2020-project-group17-Server\cs4550-summer-2020-project-group17-Server\src\main\webapp" />
+      <recent name="C:\Users\12972\Desktop\cs4550-summer-2020-project-group17-Server-master\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DemoApplication">
+    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.project.DemoApplication" />
+      <module name="cs4550-summer-2020-project-group17-Server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cs4550-summer-2020-project-group17-Server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.project.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b90edc98-e0a2-4ef6-b986-ef8f74bedb31" name="Default Changelist" comment="" />
+      <created>1592346664454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592346664454</updated>
+      <workItem from="1592346670232" duration="9000" />
+      <workItem from="1592346696068" duration="536000" />
+      <workItem from="1592347356222" duration="250000" />
+      <workItem from="1592349644729" duration="1346000" />
+      <workItem from="1592353867730" duration="4471000" />
+      <workItem from="1592438174260" duration="765000" />
+      <workItem from="1592441455468" duration="736000" />
+      <workItem from="1592443428196" duration="18000" />
+      <workItem from="1592443707842" duration="1170000" />
+      <workItem from="1592445008536" duration="1355000" />
+      <workItem from="1592446659288" duration="4000000" />
+      <workItem from="1592506130810" duration="8396000" />
+      <workItem from="1592531734972" duration="3921000" />
+      <workItem from="1592579846912" duration="1353000" />
+      <workItem from="1592583305717" duration="4159000" />
+      <workItem from="1592678200683" duration="11081000" />
+      <workItem from="1592765446126" duration="618000" />
+    </task>
+    <task id="LOCAL-00001" summary="edit">
+      <created>1592445109333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592445109333</updated>
+    </task>
+    <task id="LOCAL-00002" summary="edit">
+      <created>1592445741818</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592445741818</updated>
+    </task>
+    <task id="LOCAL-00003" summary="edit on server">
+      <created>1592509182809</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592509182809</updated>
+    </task>
+    <task id="LOCAL-00004" summary="edit on server">
+      <created>1592513266193</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592513266193</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add">
+      <created>1592513816120</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592513816120</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add">
+      <created>1592513837220</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592513837220</updated>
+    </task>
+    <task id="LOCAL-00007" summary="edit">
+      <created>1592514119802</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592514119802</updated>
+    </task>
+    <task id="LOCAL-00008" summary="edit">
+      <created>1592514340584</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1592514340584</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="edit on server" />
+    <MESSAGE value="add" />
+    <MESSAGE value="edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="864" y="426" width="677" height="204" key="#Assign_Data_Sources" timestamp="1592773095266">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state x="864" y="426" key="#Assign_Data_Sources/-1920.23.1920.1057/0.23.1920.1010@0.23.1920.1010" timestamp="1592347483045" />
+    <state x="864" y="426" width="677" height="204" key="#Assign_Data_Sources/0.23.1920.1010/-1920.23.1920.1057@0.23.1920.1010" timestamp="1592773095266" />
+    <state x="448" y="113" key="#Project_Structure" timestamp="1592531771712">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="448" y="109" key="#Project_Structure/-1920.23.1920.1057/0.23.1920.1010@0.23.1920.1010" timestamp="1592347033641" />
+    <state x="448" y="113" key="#Project_Structure/0.23.1920.1057/-1920.23.1920.1010@0.23.1920.1057" timestamp="1592531771712" />
+    <state x="560" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592773060246">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state x="560" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1010/-1920.23.1920.1057@0.23.1920.1010" timestamp="1592773060246" />
+    <state x="824" y="255" key="#com.intellij.ide.util.MemberChooser" timestamp="1592772198071">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state x="824" y="255" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1010/-1920.23.1920.1057@0.23.1920.1010" timestamp="1592772198071" />
+    <state x="824" y="266" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1057/-1920.23.1920.1010@0.23.1920.1057" timestamp="1592535222661" />
+    <state width="1878" height="130" key="GridCell.Tab.0.bottom" timestamp="1592774656359">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state width="1458" height="315" key="GridCell.Tab.0.bottom/0.0.1500.1000@0.0.1500.1000" timestamp="1592670226994" />
+    <state width="1878" height="212" key="GridCell.Tab.0.bottom/0.23.1920.1010/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1592691500869" />
+    <state width="1878" height="130" key="GridCell.Tab.0.bottom/0.23.1920.1010/-1920.23.1920.1057@0.23.1920.1010" timestamp="1592774656359" />
+    <state width="1878" height="376" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1920.23.1920.1010@0.23.1920.1057" timestamp="1592548159222" />
+    <state width="1878" height="130" key="GridCell.Tab.0.center" timestamp="1592774656358">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state width="1458" height="315" key="GridCell.Tab.0.center/0.0.1500.1000@0.0.1500.1000" timestamp="1592670226993" />
+    <state width="1878" height="212" key="GridCell.Tab.0.center/0.23.1920.1010/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1592691500868" />
+    <state width="1878" height="130" key="GridCell.Tab.0.center/0.23.1920.1010/-1920.23.1920.1057@0.23.1920.1010" timestamp="1592774656358" />
+    <state width="1878" height="376" key="GridCell.Tab.0.center/0.23.1920.1057/-1920.23.1920.1010@0.23.1920.1057" timestamp="1592548159221" />
+    <state width="1878" height="130" key="GridCell.Tab.0.left" timestamp="1592774656358">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state width="1458" height="315" key="GridCell.Tab.0.left/0.0.1500.1000@0.0.1500.1000" timestamp="1592670226993" />
+    <state width="1878" height="212" key="GridCell.Tab.0.left/0.23.1920.1010/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1592691500867" />
+    <state width="1878" height="130" key="GridCell.Tab.0.left/0.23.1920.1010/-1920.23.1920.1057@0.23.1920.1010" timestamp="1592774656358" />
+    <state width="1878" height="376" key="GridCell.Tab.0.left/0.23.1920.1057/-1920.23.1920.1010@0.23.1920.1057" timestamp="1592548159221" />
+    <state width="1878" height="130" key="GridCell.Tab.0.right" timestamp="1592774656358">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state width="1458" height="315" key="GridCell.Tab.0.right/0.0.1500.1000@0.0.1500.1000" timestamp="1592670226993" />
+    <state width="1878" height="212" key="GridCell.Tab.0.right/0.23.1920.1010/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1592691500868" />
+    <state width="1878" height="130" key="GridCell.Tab.0.right/0.23.1920.1010/-1920.23.1920.1057@0.23.1920.1010" timestamp="1592774656358" />
+    <state width="1878" height="376" key="GridCell.Tab.0.right/0.23.1920.1057/-1920.23.1920.1010@0.23.1920.1057" timestamp="1592548159222" />
+    <state width="1878" height="256" key="GridCell.Tab.1.bottom" timestamp="1592675198292">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1458" height="213" key="GridCell.Tab.1.bottom/0.0.1500.1000@0.0.1500.1000" timestamp="1592588025997" />
+    <state width="1878" height="256" key="GridCell.Tab.1.bottom/0.23.1920.1010/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1592675198292" />
+    <state width="1878" height="256" key="GridCell.Tab.1.bottom/0.23.1920.1010/-1920.23.1920.1057@0.23.1920.1010" timestamp="1592599681907" />
+    <state width="1878" height="256" key="GridCell.Tab.1.bottom/0.23.1920.1057/-1920.23.1920.1010@0.23.1920.1057" timestamp="1592538793493" />
+    <state width="1878" height="256" key="GridCell.Tab.1.center" timestamp="1592675198291">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1458" height="213" key="GridCell.Tab.1.center/0.0.1500.1000@0.0.1500.1000" timestamp="1592588025997" />
+    <state width="1878" height="256" key="GridCell.Tab.1.center/0.23.1920.1010/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1592675198291" />
+    <state width="1878" height="256" key="GridCell.Tab.1.center/0.23.1920.1010/-1920.23.1920.1057@0.23.1920.1010" timestamp="1592599681906" />
+    <state width="1878" height="256" key="GridCell.Tab.1.center/0.23.1920.1057/-1920.23.1920.1010@0.23.1920.1057" timestamp="1592538793493" />
+    <state width="1878" height="256" key="GridCell.Tab.1.left" timestamp="1592675198290">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1458" height="213" key="GridCell.Tab.1.left/0.0.1500.1000@0.0.1500.1000" timestamp="1592588025997" />
+    <state width="1878" height="256" key="GridCell.Tab.1.left/0.23.1920.1010/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1592675198290" />
+    <state width="1878" height="256" key="GridCell.Tab.1.left/0.23.1920.1010/-1920.23.1920.1057@0.23.1920.1010" timestamp="1592599681905" />
+    <state width="1878" height="256" key="GridCell.Tab.1.left/0.23.1920.1057/-1920.23.1920.1010@0.23.1920.1057" timestamp="1592538793492" />
+    <state width="1878" height="256" key="GridCell.Tab.1.right" timestamp="1592675198291">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1458" height="213" key="GridCell.Tab.1.right/0.0.1500.1000@0.0.1500.1000" timestamp="1592588025997" />
+    <state width="1878" height="256" key="GridCell.Tab.1.right/0.23.1920.1010/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1592675198291" />
+    <state width="1878" height="256" key="GridCell.Tab.1.right/0.23.1920.1010/-1920.23.1920.1057@0.23.1920.1010" timestamp="1592599681907" />
+    <state width="1878" height="256" key="GridCell.Tab.1.right/0.23.1920.1057/-1920.23.1920.1010@0.23.1920.1057" timestamp="1592538793493" />
+    <state x="498" y="190" key="Maven.ArtifactSearchDialog" timestamp="1592346865376">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state x="498" y="190" key="Maven.ArtifactSearchDialog/-1920.23.1920.1057/0.23.1920.1010@0.23.1920.1010" timestamp="1592346865376" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/project/controllers/ReviewController.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/project/services/ReviewService.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo typeName="java.lang.Integer" fieldName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
