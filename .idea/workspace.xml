@@ -20,11 +20,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b90edc98-e0a2-4ef6-b986-ef8f74bedb31" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/cs4550-summer-2020-project-group17-Server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cs4550-summer-2020-project-group17-Server.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_3_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_3_3_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/precache-manifest.926e12c24b05d8e57a8bc5a735232264.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/precache-manifest.40f66ed7b05c867aa598870f965115c9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/2.a17a1ed7.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/2.a17a1ed7.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/main.68ab74cb.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/main.68ab74cb.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/2.a44fd833.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/2.a44fd833.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/2.a44fd833.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/main.3d4a861e.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/main.3d4a861e.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/runtime-main.d6938aff.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/runtime-main.d6938aff.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/media/fontawesome-webfont.674f50d2.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/media/fontawesome-webfont.912ec66d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/media/fontawesome-webfont.af7ae505.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/media/fontawesome-webfont.b06871f2.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/media/fontawesome-webfont.fee66e71.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/media/logo.1b64cc74.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/2.a17a1ed7.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/2.a17a1ed7.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.66dec7cd.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.66dec7cd.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.a44fd833.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.a44fd833.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.a44fd833.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.ef0dfd67.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.ef0dfd67.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/runtime-main.d6938aff.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/runtime-main.d6938aff.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/fontawesome-webfont.674f50d2.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/fontawesome-webfont.912ec66d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/fontawesome-webfont.af7ae505.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/fontawesome-webfont.b06871f2.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/fontawesome-webfont.fee66e71.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/logo.1b64cc74.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +105,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -72,12 +119,14 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\12972\Desktop\cs4550-summer-2020-project-group17-Server-master\src\main\webapp" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\12972\Desktop\weapp\Online-Shopping-Platform-Server" />
+      <recent name="C:\Users\12972\Desktop\weapp\Online-Shopping-Platform-Server\src" />
       <recent name="$PROJECT_DIR$/src/main/webapp" />
       <recent name="C:\Users\Genghis\Desktop\cs4550-summer-2020-project-group17-Server\cs4550-summer-2020-project-group17-Server\src\main\webapp" />
+      <recent name="C:\Users\12972\Desktop\cs4550-summer-2020-project-group17-Server-master\src\main\webapp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\12972\Desktop\cs4550-summer-2020-project-group17-Server-master\src\main\webapp" />
     </key>
   </component>
@@ -147,7 +196,7 @@
       <workItem from="1592583305717" duration="4159000" />
       <workItem from="1592678200683" duration="11081000" />
       <workItem from="1592765446126" duration="618000" />
-      <workItem from="1599844021230" duration="259000" />
+      <workItem from="1599844021230" duration="647000" />
     </task>
     <task id="LOCAL-00001" summary="edit">
       <created>1592445109333</created>
@@ -205,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592514340584</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="build for heroku">
+      <created>1599844398999</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1599844398999</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,7 +284,8 @@
     <MESSAGE value="edit on server" />
     <MESSAGE value="add" />
     <MESSAGE value="edit" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit" />
+    <MESSAGE value="build for heroku" />
+    <option name="LAST_COMMIT_MESSAGE" value="build for heroku" />
   </component>
   <component name="WindowStateProjectService">
     <state x="864" y="426" width="677" height="204" key="#Assign_Data_Sources" timestamp="1592773095266">
