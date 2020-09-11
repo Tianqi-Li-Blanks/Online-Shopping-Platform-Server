@@ -1,5 +1,5 @@
 README
-Group 17 - Project Description
+Project Description
 
 1. Online store application: sellers, buyer
 For sellers: sellers can post, edit, delete, and sell their products on the website.
