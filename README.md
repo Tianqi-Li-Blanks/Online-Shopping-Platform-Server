@@ -59,7 +59,7 @@ Profile page: Account info, order list, loved item list, edit login username or 
 https://www.programmableweb.com/api/wazala-online-store
 The Wazala Online Store API in REST architecture supports JSON responses to integrate eCommerce features. The API interacts with the shopping cart to purchase via Paypal or Google Checkout.
 
-https://rapidapi.com/ajmorenodelarosa/api/amazon-price1
+https://rapidapi.com/logicbuilder/api/amazon-product-reviews-keywords
 With this API, we can get real-time information such as prices or reviews of a specific product from Amazon.
 
 
@@ -68,4 +68,5 @@ With this API, we can get real-time information such as prices or reviews of a s
 Final web
 
 HEROKU WEB:
-https://cs4550-20su1-group17-server.herokuapp.com/
+https://cs4550-20su1-group17-server.herokuapp.com/ the API of this one is old so the search might not work
+here is the new one: https://online-shopping-platform.herokuapp.com/
